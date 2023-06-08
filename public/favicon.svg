@@ -1,24 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 627 894" fill="none">
-  <style>
-    #letter-a {
-      fill: black;
-    }
-    @media (prefers-color-scheme: dark) {
-      #letter-a {
-        fill: white;
-      }
-    }
-  </style>
-  <path
-    id="letter-a"
-    fill-rule="evenodd"
-    clip-rule="evenodd"
-    d="M445.433 22.9832C452.722 32.0324 456.439 44.2432 463.873 68.6647L626.281 602.176C566.234 571.026 500.957 548.56 432.115 536.439L326.371 179.099C324.641 173.252 319.27 169.241 313.173 169.241C307.06 169.241 301.68 173.273 299.963 179.14L195.5 536.259C126.338 548.325 60.7632 570.832 0.459473 602.095L163.664 68.5412C171.121 44.1617 174.85 31.9718 182.14 22.9393C188.575 14.9651 196.946 8.77213 206.454 4.95048C217.224 0.621582 229.971 0.621582 255.466 0.621582H372.034C397.562 0.621582 410.326 0.621582 421.106 4.95951C430.622 8.78908 438.998 14.9946 445.433 22.9832Z"
-  />
-  <path
-    fill-rule="evenodd"
-    clip-rule="evenodd"
-    d="M464.867 627.566C438.094 650.46 384.655 666.073 323.101 666.073C247.551 666.073 184.229 642.553 167.426 610.921C161.419 629.05 160.072 649.798 160.072 663.052C160.072 663.052 156.114 728.134 201.38 773.401C201.38 749.896 220.435 730.842 243.939 730.842C284.226 730.842 284.181 765.99 284.144 794.506C284.143 795.36 284.142 796.209 284.142 797.051C284.142 840.333 310.595 877.436 348.215 893.075C342.596 881.518 339.444 868.54 339.444 854.825C339.444 813.545 363.679 798.175 391.845 780.311C414.255 766.098 439.155 750.307 456.315 718.629C465.268 702.101 470.352 683.17 470.352 663.052C470.352 650.68 468.43 638.757 464.867 627.566Z"
-    fill="#FF5D01"
-  />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="136" height="96"><svg width="136" height="96" viewBox="0 0 136 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M59.9196 9.00001C59.9196 6.23858 62.1582 4 64.9196 4H66.0804C68.8418 4 71.0804 6.23858 71.0804 9V50.948C71.0804 53.7095 68.8418 55.9481 66.0804 55.9481H64.9196C62.1582 55.9481 59.9196 53.7095 59.9196 50.9481V9.00001Z" fill="#867F7E"></path>
+<g filter="url(#filter0_d_1_14)">
+<path d="M109.027 25.8182L67.7321 84H88.9375L128 25.8182H109.027Z" fill="#867F7E"></path>
+<path d="M67.7321 84L26.4375 25.8182H3L49.875 84M67.7321 84L109.027 25.8182H128L88.9375 84H67.7321Z" stroke="#F09917"></path>
+</g>
+<g filter="url(#filter1_d_1_14)">
+<path d="M43.1786 4H87.8214" stroke="#F09917" stroke-width="8" stroke-linecap="round"></path>
+</g>
+<defs>
+<filter id="SvgjsFilter1001" x="0.955082" y="25.3182" width="134.983" height="70.1818" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feOffset dx="3" dy="7"></feOffset>
+<feGaussianBlur stdDeviation="2"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="out"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_14"></feBlend>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_14" result="shape"></feBlend>
+</filter>
+<filter id="SvgjsFilter1000" x="35.1786" y="2.38419e-07" width="60.6429" height="16" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feOffset dy="4"></feOffset>
+<feGaussianBlur stdDeviation="2"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="out"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_14"></feBlend>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_14" result="shape"></feBlend>
+</filter>
+</defs>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+</style></svg>

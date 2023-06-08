@@ -1,12 +1,9 @@
 ---
 import "@fontsource/inter/index.css";
-import Compatibility from "~/components/compatibility.astro";
-import Features from "~/components/features.astro";
 import Footer from "~/components/footer.astro";
 import Header from "~/components/header.astro";
-import Intro from "~/components/intro.astro";
-import Showcase from "~/components/showcase.astro";
-import Splash from "~/components/splash.astro";
+import OfferCTA from "~/components/offerCTA.astro";
+import Products from "~/components/products.astro";
 import "~/styles/index.css";
 
 const { generator, site } = Astro;
@@ -24,7 +21,7 @@ const description =
 		<link rel="icon" type="image/png" href="/favicon.png">
     <meta name="generator" content={generator} />
 
-    <title>Techveda Landing Page</title>
+    <title>Techveda Logbuy Partnership</title>
     <meta name="description" content={description} />
 
     <!-- social media -->
@@ -62,15 +59,9 @@ const description =
   <body
     class="h-full overflow-x-hidden bg-default text-default text-base selection:bg-secondary selection:text-white"
   >
-    <Header />
-    <Splash />
-    <div class="space-y-24 px-8 py-32 csec1">
-      <Intro />
-      <Features />
-      <Compatibility />
-      <Showcase />
-    </div>
-    <Footer />
+    		<OfferCTA />
+			<Products />
+			
   </body>
 	<script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
 <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/Flip.min.js"></script>
